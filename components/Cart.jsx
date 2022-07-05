@@ -100,6 +100,7 @@ const Cart = () => {
             </div>
           </div>
         )}
+        <p>Note: You will not receive any products by purchasing</p>
       </div>
     </div>
   )
